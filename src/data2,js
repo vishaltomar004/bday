@@ -1,0 +1,7 @@
+const surpriseImages = [
+    {
+        id:"1",
+        image:"https://i.ibb.co/CHpgGd9/collage.jpg"}
+];
+
+export default surpriseImages;
